@@ -8,7 +8,7 @@
 程序效果
 -------
 >roc曲线  
->[!Image](https://raw.githubusercontent.com/lingzerol/Predict_tags_on_StackOverflow/master/Program_performance/roc.png)
+>![Image](https://raw.githubusercontent.com/lingzerol/Predict_tags_on_StackOverflow/master/Program_performance/roc.png)
 
->准确率
->[!Image](https://raw.githubusercontent.com/lingzerol/Predict_tags_on_StackOverflow/master/Program_performance/accuracy.PNG)
+>准确率  
+>![Image](https://raw.githubusercontent.com/lingzerol/Predict_tags_on_StackOverflow/master/Program_performance/accuracy.PNG)
